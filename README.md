@@ -98,17 +98,11 @@ How to publish:
     <tr>
       <th><a href="https://github.com/IlhaamGhiffari/Portal-Telemetry">Portal-Telemetry</a></th>
       <th><a href="https://github.com/IlhaamGhiffari/news-qa">news-qa</a></th>
+      <th><a href="https://github.com/IlhaamGhiffari/sadarjiwa">sadarjiwa</a></th>
     </tr>
     <tr>
       <td>Python · rainfall telemetry & monitoring platform</td>
       <td>Python · question-answering over news data</td>
-    </tr>
-    <tr>
-      <th><a href="https://github.com/IlhaamGhiffari/avocado_detection">avocado_detection</a></th>
-      <th><a href="https://github.com/IlhaamGhiffari/sadarjiwa">sadarjiwa</a></th>
-    </tr>
-    <tr>
-      <td>Python · computer-vision detection pipeline</td>
       <td>Svelte · web app</td>
     </tr>
   </table>
