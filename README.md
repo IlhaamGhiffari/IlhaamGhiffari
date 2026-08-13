@@ -33,9 +33,9 @@ How to publish:
 
 ---
 
-<!-- CONTRIBUTION STREAK -->
+<!-- GITHUB STATS -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=IlhaamGhiffari&theme=github-dark-blue&hide_border=true&background=0d1117&border=30363d&ring=8B5CF6&fire=8B5CF6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8b949e" alt="Contribution streak" />
+  <img src="https://ghstats.dev/api/card?username=IlhaamGhiffari&theme=default&bg=0d1117&title_color=8B5CF6&icon_color=8B5CF6&border_color=30363d&hide_border=true&hide=stars,prs,followers,avg" alt="GitHub Stats" />
 </div>
 
 ---
