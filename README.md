@@ -33,23 +33,9 @@ How to publish:
 
 ---
 
-<!-- DYNAMIC STATS ROW -->
+<!-- CONTRIBUTION STREAK -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=IlhaamGhiffari&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0d1117" alt="GitHub stats" width="400" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=IlhaamGhiffari&theme=github-dark-blue&hide_border=true&background=0d1117&border=30363d&ring=8B5CF6&fire=8B5CF6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8b949e" alt="Contribution streak" width="400" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlhaamGhiffari&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" width="800" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com/?user=IlhaamGhiffari&theme=github-dark-blue&hide_border=true&background=0d1117&border=30363d&ring=8B5CF6&fire=8B5CF6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8b949e" alt="Contribution streak" />
 </div>
 
 ---
