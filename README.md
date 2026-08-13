@@ -98,12 +98,10 @@ How to publish:
     </tr>
     <tr>
       <th><a href="https://github.com/Dermascan-C241-PS084/DermaScan-ML">DermaScan-ML</a></th>
-      <th><a href="https://github.com/IlhaamGhiffari/BigData-Cluster">BigData-Cluster</a></th>
       <th><a href="https://github.com/IlhaamGhiffari/Air-Quality-Visualization">Air-Quality-Visualization</a></th>
     </tr>
     <tr>
       <td>Skin-disease CNN (MobileNetV2) · 97% test acc · Bangkit 2024</td>
-      <td>Hadoop/Spark/Hive/YARN lab module · Docker Compose</td>
       <td>Air-quality analysis (PM2.5/PM10) + Streamlit dashboard</td>
     </tr>
   </table>
